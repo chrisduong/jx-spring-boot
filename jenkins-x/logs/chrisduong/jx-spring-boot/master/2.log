@@ -1,0 +1,14 @@
+
+Showing logs for build [32mmeta-chrisduong-jx-spring-boot-mjczw-2[0m stage [32mmeta-pipeline[0m and container [32mstep-credential-initializer-c7gm9[0m
+Unable to retrieve container logs for docker://2790ee10b0166a3825863214258b644df27f07c0927cb706693eda4cb627454e
+
+Showing logs for build [32mmeta-chrisduong-jx-spring-boot-mjczw-2[0m stage [32mmeta-pipeline[0m and container [32mstep-working-dir-initializer-8f74p[0m
+Unable to retrieve container logs for docker://c9cdd8938f5df284b1582e40e8d98a2837915ba2622bffc2d3e7dea5b97f964e
+
+Showing logs for build [32mmeta-chrisduong-jx-spring-boot-mjczw-2[0m stage [32mmeta-pipeline[0m and container [32mstep-place-tools[0m
+Unable to retrieve container logs for docker://07204d38f5ed1137dfc3b9aca52f12c416e0dd4f66f831b157bf6175ac476c2b
+
+Showing logs for build [32mmeta-chrisduong-jx-spring-boot-mjczw-2[0m stage [32mmeta-pipeline[0m and container [32mstep-git-source-meta-chrisduong-jx-spring-boot-86krz[0m
+Unable to retrieve container logs for docker://041e750333639b82624359e66198b6a044eebc5bba87bb04fb2c1b54b4369144
+[31m
+Pipeline failed on stage 'meta-pipeline' : container 'step-git-source-meta-chrisduong-jx-spring-boot-86krz'. The execution of the pipeline has stopped.[0m
